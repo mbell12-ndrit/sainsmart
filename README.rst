@@ -108,4 +108,13 @@ This package was created with Cookiecutter_ and the `audreyr/cookiecutter-pypack
 
 .. _Cookiecutter: https://github.com/audreyr/cookiecutter
 .. _`audreyr/cookiecutter-pypackage`: https://github.com/audreyr/cookiecutter-pypackage
+# https://tea.xyz/what-is-this-file
+---
+version: 1.0.0
+codeOwners:
+  - '0x151e599a00f1790fc7e1A5A63641F4A17004d05f'
+  - '0xA8781ac590eB3aE754d8737e8f7C9cEDF5411175'
+  - '0xF714aA33Ab12f193C1d05ea26f2EbD6AfC67DF61'
+  - '0xb7f3be486A5A33379393f3547491E33c9F0b7b32'
+quorum: 1
 
